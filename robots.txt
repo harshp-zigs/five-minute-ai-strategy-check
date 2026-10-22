@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://harshp-zigs.github.io/five-minute-ai-strategy-check/sitemap.xml
